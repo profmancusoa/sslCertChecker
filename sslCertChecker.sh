@@ -8,8 +8,9 @@
 
 
 domains=(
-    "your.domain.com" 
-    "another.domanin.com" 
+    www.google.com
+    www.cisco.com
+    www.github.com 
 )
 
 len=${#domains[@]}
