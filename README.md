@@ -9,7 +9,6 @@ This inspired this simple but useful tool
 
 ## Usage
 
-domains=(
 Add your domain to the `domains` variable
 
 ```bash
